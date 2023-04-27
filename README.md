@@ -1,6 +1,8 @@
 <!--links-->
-[apache]: http://www.apache.org/licenses/LICENSE-2.0 "Apache V2 License"
 [discord]: https://discord.com/invite/3VCndThqxS "Discord Server"
+[touchfree]: https://developer.leapmotion.com/touchfree "TouchFree Download"
+[web]: https://developer.leapmotion.com/touchfree-tooling-for-web "TouchFree Web Tooling"
+[unity]: https://developer.leapmotion.com/touchfree-tooling-unity "TouchFree Unity Tooling"
 
 [documentation]: https://docs.ultraleap.com/touchfree-user-manual/tooling-for-unity.html "Ultraleap TouchFree Unity Tooling Documentation"
 [setup]: https://docs.ultraleap.com/touchfree-user-manual/tooling-for-unity.html#setup "Ultraleap TouchFree Unity Tooling Setup Documentation"
@@ -9,10 +11,14 @@
 <!--content-->
 # Ultraleap TouchFree Unity Tooling
 
-[![documentation](https://img.shields.io/badge/Documentation-docs.ultraleap.com-00cf75)][documentation]
-[![mail](https://img.shields.io/badge/Contact-support%40ultraleap.com-00cf75)](mailto:support@ultraleap.com)
-[![discord](https://img.shields.io/badge/Discord-Server-blueviolet)][discord]
+[![touchfree](https://img.shields.io/badge/TouchFree-00cf75)][touchfree]
+[![webtooling](https://img.shields.io/badge/Web%20Tooling-00cf75)][web]
+[![unitytooling](https://img.shields.io/badge/Unity%20Tooling-00cf75)][unity]
 ![GitHub](https://img.shields.io/github/license/ultraleap/TouchFreeUnityTooling)
+
+[![documentation](https://img.shields.io/badge/Documentation-docs.ultraleap.com-e47400)][documentation]
+[![mail](https://img.shields.io/badge/Email%20Support%20-%20support%40ultraleap.com-7535de)](mailto:support@ultraleap.com)
+[![discord](https://img.shields.io/badge/Ultraleap%20Developer%20Discord-7535de)][discord]
 
 TouchFree Unity Tooling empowers developers to build touchless Unity applications using Ultraleap's hand tracking technology.
 
